@@ -1,2 +1,2 @@
-# e10s_sample
-A demo of using legacy APIs in an e10s addon
+#My e10s sample
+A basic add-on
